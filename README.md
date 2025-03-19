@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gonna kms
+- 👋 Wiwiwi
 
 <!---
 AaAAmat/AaAAmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
